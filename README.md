@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I’m nyxrtea. I’m currently working on data preprocessing, machine learning models, and integrating satellite data with AWS services. I’m interested in collaborating on ML projects, ETL pipelines, computer vision, and data visualization. I’m also learning more about Python for data engineering, KNN, FP-Growth, and OCR systems. Feel free to ask me about data cleaning, ML modeling, OCR workflows, ETL automation, or market basket analysis. I enjoy turning small ideas into full projects.
+Hi, I’m nyxrtea. I’m currently working on data preprocessing, machine learning models, and integrating satellite data with AWS services. I’m interested in collaborating on ML projects, ETL pipelines, computer vision, and data visualization. I’m also learning more about Python for data engineering, machine learning models, NLP, and OCR systems. Feel free to ask me about data cleaning, ML modeling, OCR workflows, ETL automation, or market basket analysis. I enjoy turning small ideas into full projects.
 
 
 ## 🌐 Socials:
